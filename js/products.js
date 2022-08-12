@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <img
               src="${productObject.image}"
               alt="product image"
-              class="img-thumbnail"
+              class="img-thumbnail"W
             />
           </div>
           <div class="col">
